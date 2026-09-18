@@ -1,2 +1,2 @@
 # PST-Tasks
-Java solutions for HackerRank and coding practice.
+Java solutions for HackerRank,LeetCode and coding practice.
