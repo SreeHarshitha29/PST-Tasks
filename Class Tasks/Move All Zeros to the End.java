@@ -29,3 +29,9 @@ public class Task4 {
         sc.close();
     }
 }
+Input:
+7
+0 5 0 3 8 0 2
+
+Output:
+5 3 8 2 0 0 0
